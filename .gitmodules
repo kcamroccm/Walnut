@@ -5,7 +5,7 @@
 [submodule "vendor/imgui"]
 	path = vendor/imgui
 	url = https://github.com/kcamroccm/imgui
-	branch = docking
+	branch = ForRayTrace
 [submodule "vendor/glfw"]
 	path = vendor/glfw
 	url = https://github.com/thecherno/glfw
